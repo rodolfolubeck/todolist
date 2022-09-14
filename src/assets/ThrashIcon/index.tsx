@@ -1,0 +1,1 @@
+export const ThrashIcon=require("./trash.png");
